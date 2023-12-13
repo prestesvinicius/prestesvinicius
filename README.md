@@ -1,5 +1,4 @@
 # ⛹️‍♀️ Vinícius Prestes
-
 **`Aprendiz em Dados (Cientista/Analista/Engenheiro)`**
 
 Sou um estudante de engenharia e fanático por dados, busco oportunidades de aplicar minha experiência e conhecimento adquiridos.
