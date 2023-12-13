@@ -43,7 +43,7 @@ Posteriormente, conduzi uma análise estatística minuciosa sobre a acurácia al
 
 <details>
  <summary><h3>⏰ Detecção de falhas em sinais temporais </h3></summary>
-Este projeto envolveu a classificação de sinais que indicam o funcionamento normal e a presença de falhas de desbalanceamento de 6g em máquinas rotativas. Utilizei os dados provenientes da base de dados Machinery Fault Database (MAFAULDA). A análise e preparação desses dados, formatados como séries temporais, representaram um desafio significativo, incluindo a transformação dos dados para o domínio da frequência.
+Este projeto envolveu a classificação de sinais que indicam o funcionamento normal e a presença de falhas de desbalanceamento de 6g em máquinas rotativas. Utilizei os dados provenientes da base de dados <a href=“https://www02.smt.ufrj.br/~offshore/mfs/page_01.html“>Machinery Fault Database</a>  (MAFAULDA). A análise e preparação desses dados, formatados como séries temporais, representaram um desafio significativo, incluindo a transformação dos dados para o domínio da frequência.
 Iniciando com a definição de uma linha de referência inicial, prossegui com a extração de características para aprimorar o desempenho do classificador. Em seguida, reduzi a dimensionalidade dos dados por meio do método PCA e otimizei os classificadores testados utilizando a função GridSearch.
 Os resultados obtidos foram promissores, alcançando uma acurácia máxima de 96% na validação cruzada. Além disso, os classificadores foram comparados por meio de análises estatísticas ANOVA e testes pós-hoc de Tukey para uma avaliação comparativa.
 
