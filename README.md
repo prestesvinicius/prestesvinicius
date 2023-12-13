@@ -40,7 +40,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
   * Validação cruzada de Classificadores
   * Análise estatística de resultados
 </details>
-https://github.com/prestesvinicius/prestesvinicius/blob/main/header.png
+(https://github.com/prestesvinicius/prestesvinicius/blob/main/header.png)
 
 <details>
  <summary><h3>⏰ Detecção de falhas em sinais temporais </h3></summary>
