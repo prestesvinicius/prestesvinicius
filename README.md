@@ -32,7 +32,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 
    #
    
-  **Habilidades aplicadas nesse projeto:**
+  **Competências aplicadas nesse projeto:**
   * Busca por dados na plataforma Kaggle
   * Carregamento de Dados no Google Colab
   * Análise Exploratória de Dados
@@ -49,7 +49,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 
    #
    
-  **Habilidades aplicadas nesse projeto:**
+  **Competências aplicadas nesse projeto:**
   * Carregamento de dados em formato de séries temporais
   * Análise Exploratória de Dados de sinais no tempo
   * Transformar dados do tempo para frequência usando FFT
