@@ -2,8 +2,8 @@
 
 **`Aprendiz em Dados (Cientista/Analista/Engenheiro)`**
 
-Sou um estudante de engenharia e fanático por dados, busco oportunidades de aplicar minha experiência e conhecimento adquiridos durante meus estudos. 
-Os códigos que posto aqui são projetos autorais e projeto de estudo que desenvolvi durante minha jornada de aprendizado.
+Sou um estudante de engenharia e fanático por dados, busco oportunidades de aplicar minha experiência e conhecimento adquiridos.
+Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha jornada de aprendizado.
 
 ---
 
