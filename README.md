@@ -32,7 +32,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 
    #
    
-  *Habilidades aplicadas nesse projeto:*
+  **Habilidades aplicadas nesse projeto:**
   * Busca por dados na plataforma Kaggle
   * Carregamento de Dados no Google Colab
   * Análise Exploratória de Dados
