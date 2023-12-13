@@ -1,5 +1,5 @@
 # ⛹️‍♀️ Vinícius Prestes
-**`Aprendiz em Dados (Cientista/Analista/Engenheiro)`**
+**`Entusiasta em Dados (Cientista/Analista/Engenheiro)`**
 
 Sou um estudante de engenharia e fanático por dados, busco oportunidades de aplicar minha experiência e conhecimento adquiridos.
 Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha jornada de aprendizado.
@@ -20,4 +20,18 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <br />
 
-#
+### Projetos em destaque
+
+<details>
+ <summary><h3>🆚 Análise estatística comparativa entre classificadores </h3></summary>
+   Esse foi meu primeiro projeto em Ciência de Dados, aonde comparei a acurácia de dois classificadores clássicos KNearestNeighbor e RandomForestClassifier em cinco datasets distintos.
+   Os datasets utilizados foram todos encontrados no Kaggle, e as temáticas abordadas nos conjuntos eram diversas, desde dados de saúde pública até dados sobre aplicativos malware de android.
+   Depois de carregados, cada um dos datasets foi analisado e preparado para a etapa de treinamento e teste dos classificadores, por fim, foi feito uma análise estatística dos resultados para a métrica de acurácia entre os dois classificadores. Um dos classificadores se destacou significativamente, qual é o seu palpite? 👀
+   
+  Habilidades aplicadas nesse projeto:
+  * Busca por dados na plataforma Kaggle
+  * Carregamento de Dados no Google Colab
+  * Análise Exploratória de Dados
+  * Criação de Classificadores (KNN e RandomForest)
+  * Validação cruzada de Classificadores
+  * Análise estatística de resultados
