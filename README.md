@@ -44,7 +44,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 <details>
  <summary><h3>⏰ Detecção de falhas em sinais temporais </h3></summary>
    Nesse projeto de Ciência de Dados, classifiquei sinais de funcionamento normal e falha de desbalanceamento 6g em máquinas rotativas.
-   Os dados utilizados são da base de dados [MAFAULDA]([(https://www02.smt.ufrj.br/~offshore/mfs/page_01.html)]. A análise e preparação dos dados em formato de série temporal foi desafiadora e aprendi bastante praticando com esses dados.
+   Os dados utilizados são da base de dados [MAFAULDA](https://www02.smt.ufrj.br/~offshore/mfs/page_01.html]. A análise e preparação dos dados em formato de série temporal foi desafiadora e aprendi bastante praticando com esses dados.
    Inicialmente determinei uma baseline, a partir daí foi aplicada a técnica de extração de features para melhorar o desempenho do classificador. Depois de extrair diversas features, reduzi a dimensionalidade dos dados usando PCA e otimizei os classificadores testados (KNearestNeighbors, RandomForestClassifier e SupportVectorMachines) utilizando a função GridSearch. Os resultados foram satisfatórios, chegando em uma acurácia máxima de 96% na validação cruzada, os classificadores testados foram comparados via análise estatística ANOVA e pós teste Tukey.
 
    #
