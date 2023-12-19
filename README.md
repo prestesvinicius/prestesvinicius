@@ -29,6 +29,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
    Este foi meu primeiro projeto em Ciência de Dados, no qual promovi uma comparação de acurácia entre dois classificadores clássicos, KNearestNeighbor e RandomForestClassifier, aplicados em cinco conjuntos de dados distintos.
 Os dados utilizados foram coletados do Kaggle, abrangendo temáticas diversas, desde informações sobre saúde pública até dados relacionados a aplicativos de Android. Após a obtenção desses conjuntos de dados, procedi com sua análise e preparação para a fase de treinamento e teste dos classificadores.
 Posteriormente, conduzi uma análise estatística minuciosa sobre a acurácia alcançada pelos classificadores. Vale destacar que um deles obteve um desempenho significativamente superior. Alguma aposta sobre qual foi? 👀
+[**Visualizar o código**](https://github.com/prestesvinicius/machine-failure-detection)
 
    #
    
@@ -46,7 +47,7 @@ Posteriormente, conduzi uma análise estatística minuciosa sobre a acurácia al
 Este projeto envolveu a classificação de sinais que indicam o funcionamento normal e a presença de falhas de desbalanceamento de 6g em máquinas rotativas. Utilizei os dados provenientes da base de dados Machinery Fault Database (MAFAULDA). A análise e preparação desses dados, formatados como séries temporais, representaram um desafio significativo, incluindo a transformação dos dados para o domínio da frequência.
 Iniciando com a definição de uma linha de referência inicial, prossegui com a extração de características para aprimorar o desempenho do classificador. Em seguida, reduzi a dimensionalidade dos dados por meio do método PCA e otimizei os classificadores testados utilizando a função GridSearch.
 Os resultados obtidos foram promissores, alcançando uma acurácia máxima de 96% na validação cruzada. Além disso, os classificadores foram comparados por meio de análises estatísticas ANOVA e testes pós-hoc de Tukey para uma avaliação comparativa.
-
+[**Visualizar o código**](https://github.com/prestesvinicius/classifier-comparison)
    #
    
   **Competências aplicadas nesse projeto:**
