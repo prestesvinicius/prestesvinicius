@@ -40,7 +40,7 @@ Posteriormente, conduzi uma análise estatística minuciosa sobre a acurácia al
   * Validação cruzada de Classificadores
   * Análise estatística de resultados
 </details>
- 🔗[Link para o repositório] (https://github.com/prestesvinicius/classifier-comparison/)
+ 🔗 [Link para o repositório](https://github.com/prestesvinicius/classifier-comparison/)
 
 <details>
  <summary><h3>⏰ Detecção de falhas em sinais temporais </h3></summary>
@@ -62,4 +62,4 @@ Os resultados obtidos foram promissores, alcançando uma acurácia máxima de 96
   * Validação cruzada de Classificadores
   * Análise estatística de resultados multivariados
 </details>
- 🔗[Link para o repositório] (https://github.com/prestesvinicius/classifier-comparison/)
+🔗 [Link para o repositório](https://github.com/prestesvinicius/machine-failure-detection)
