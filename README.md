@@ -39,8 +39,10 @@ Posteriormente, conduzi uma análise estatística minuciosa sobre a acurácia al
   * Construção de Modelos de Classificação
   * Validação cruzada de Classificadores
   * Análise estatística de resultados
+
+🔗 [Link para o repositório](https://github.com/prestesvinicius/classifier-comparison/)
 </details>
- 🔗 [Link para o repositório](https://github.com/prestesvinicius/classifier-comparison/)
+
 
 <details>
  <summary><h3>⏰ Detecção de falhas em sinais temporais </h3></summary>
@@ -61,5 +63,24 @@ Os resultados obtidos foram promissores, alcançando uma acurácia máxima de 96
   * Otimização de Parâmetros de Classificadores
   * Validação cruzada de Classificadores
   * Análise estatística de resultados multivariados
-</details>
+
 🔗 [Link para o repositório](https://github.com/prestesvinicius/machine-failure-detection)
+</details>
+
+<details>
+ <summary><h3>🧦 Classificação de artigos de moda usando Deep Learning </h3></summary>
+   Este projeto visa desenvolver e treinar uma Rede Neural Convolucional (CNN) para classificar imagens de artigos de moda presentes no dataset Fashion-MNIST. Composto por 70.000 imagens em escala de cinza de 28x28 pixels, distribuídas em 10 categorias distintas, o objetivo é utilizar deep learning para alcançar uma precisão superior na classificação desses artigos em comparação com métodos tradicionais já testados anteriormente nesse mesmo conjunto de dados. O projeto contempla o uso de TensorFlow, Keras e outras bibliotecas para a construção do modelo, avaliação dos resultados e busca por uma melhor capacidade de generalização na classificação de diferentes peças de vestuário.
+
+   #
+   
+  **Competências aplicadas nesse projeto:**
+  * Análise de dados em formato de imagem
+  * Arquitetura de modelos de Rede de Convolução Neural (CNN)
+  * Resolução de overfitting em modelos de CNN
+  * Bibliotecas Keras e TensorFlow
+  * Análise de desempenho de classficação em cada classe
+
+🔗 [Link para o repositório](https://github.com/prestesvinicius/CNN-FashionMNIST)
+</details>
+
+
