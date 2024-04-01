@@ -1,5 +1,5 @@
 # ⛹️‍♀️ Vinícius Prestes
-**`Entusiasta em Dados (Cientista/Analista/Engenheiro)`**
+**`Cientista de Dados`**
 
 Sou um estudante de engenharia apaixonado por dados, busco uma oportunidade de aplicar minha experiência e conhecimento em projetos reais e colaborar com empresas para transformar dados coletados em informações valiosas para o negócio.
 Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha jornada de aprendizado.
