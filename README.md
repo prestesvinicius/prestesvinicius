@@ -1,4 +1,4 @@
-# ⛹️‍♀️ Vinícius Prestes
+# Vinícius Prestes
 **`Cientista de Dados`**
 
 Busco oportunidade para me desenvolver no mercado de trabalho e aplicar minha experiência em Engenharia e Ciência de Dados.
@@ -6,7 +6,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 
 ---
 
-## 👨‍💻 Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
@@ -22,7 +22,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <details>
  <summary><h3>📊 Dashboards em Power BI </h3></summary>
