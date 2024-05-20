@@ -25,6 +25,37 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 ## 🚀 Projetos em destaque
 
 <details>
+ <summary><h3>📊 Dashboard em Power BI </h3></summary>
+   Este repositório tem como objetivo compartilhar dashboards criados em Power BI para fins de análise de dados para negócios. Cada dashboard inclui uma descrição detalhada, capturas de tela e um link para visualização.
+
+   #
+   
+  **Competências aplicadas nesse projeto:**
+  * Coleta de dados usando Excel
+  * Tratamento de dados com PowerQuerry
+  * Visualização e Análise de dados com Power BI
+  * Design do dashboard usando Corel Draw
+
+🔗 [Link para o repositório](https://github.com/prestesvinicius/dashboards-powerbi)
+</details>
+
+<details>
+ <summary><h3>🧦 Classificação de artigos de moda usando Deep Learning </h3></summary>
+   Este projeto visa desenvolver e treinar uma Rede Neural Convolucional (CNN) para classificar imagens de artigos de moda presentes no dataset Fashion-MNIST. Composto por 70.000 imagens em escala de cinza de 28x28 pixels, distribuídas em 10 categorias distintas, o objetivo é utilizar deep learning para alcançar uma precisão superior na classificação desses artigos em comparação com métodos tradicionais já testados anteriormente nesse mesmo conjunto de dados. O projeto contempla o uso de TensorFlow, Keras e outras bibliotecas para a construção do modelo, avaliação dos resultados e busca por uma melhor capacidade de generalização na classificação de diferentes peças de vestuário.
+
+   #
+   
+  **Competências aplicadas nesse projeto:**
+  * Análise de dados em formato de imagem
+  * Arquitetura de modelos de Rede de Convolução Neural (CNN)
+  * Resolução de overfitting em modelos de CNN
+  * Bibliotecas Keras e TensorFlow
+  * Análise de desempenho de classficação em cada classe
+
+🔗 [Link para o repositório](https://github.com/prestesvinicius/CNN-FashionMNIST)
+</details>
+
+<details>
  <summary><h3>🆚 Análise comparativa entre classificadores </h3></summary>
    Este foi meu primeiro projeto em Ciência de Dados, no qual promovi uma comparação de acurácia entre dois classificadores clássicos, KNearestNeighbor e RandomForestClassifier, aplicados em cinco conjuntos de dados distintos.
 Os dados utilizados foram coletados do Kaggle, abrangendo temáticas diversas, desde informações sobre saúde pública até dados relacionados a aplicativos de Android. Após a obtenção desses conjuntos de dados, procedi com sua análise e preparação para a fase de treinamento e teste dos classificadores.
@@ -65,22 +96,6 @@ Os resultados obtidos foram promissores, alcançando uma acurácia máxima de 96
   * Análise estatística de resultados multivariados
 
 🔗 [Link para o repositório](https://github.com/prestesvinicius/machine-failure-detection)
-</details>
-
-<details>
- <summary><h3>🧦 Classificação de artigos de moda usando Deep Learning </h3></summary>
-   Este projeto visa desenvolver e treinar uma Rede Neural Convolucional (CNN) para classificar imagens de artigos de moda presentes no dataset Fashion-MNIST. Composto por 70.000 imagens em escala de cinza de 28x28 pixels, distribuídas em 10 categorias distintas, o objetivo é utilizar deep learning para alcançar uma precisão superior na classificação desses artigos em comparação com métodos tradicionais já testados anteriormente nesse mesmo conjunto de dados. O projeto contempla o uso de TensorFlow, Keras e outras bibliotecas para a construção do modelo, avaliação dos resultados e busca por uma melhor capacidade de generalização na classificação de diferentes peças de vestuário.
-
-   #
-   
-  **Competências aplicadas nesse projeto:**
-  * Análise de dados em formato de imagem
-  * Arquitetura de modelos de Rede de Convolução Neural (CNN)
-  * Resolução de overfitting em modelos de CNN
-  * Bibliotecas Keras e TensorFlow
-  * Análise de desempenho de classficação em cada classe
-
-🔗 [Link para o repositório](https://github.com/prestesvinicius/CNN-FashionMNIST)
 </details>
 
 
