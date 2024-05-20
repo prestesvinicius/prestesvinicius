@@ -25,7 +25,7 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 ## 🚀 Projetos em destaque
 
 <details>
- <summary><h3>📊 Dashboard em Power BI </h3></summary>
+ <summary><h3>📊 Dashboards em Power BI </h3></summary>
    Este repositório tem como objetivo compartilhar dashboards criados em Power BI para fins de análise de dados para negócios. Cada dashboard inclui uma descrição detalhada, capturas de tela e um link para visualização.
 
    #
