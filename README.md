@@ -1,8 +1,8 @@
 # Vinícius Prestes
-**`Cientista de Dados`**
+**`Engenheiro Mecânico e Cientista de Dados`**
 
-Busco oportunidade para me desenvolver no mercado de trabalho e aplicar minha experiência em Engenharia e Ciência de Dados.
-Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha jornada de aprendizado.
+Os projetos que compartilho por aqui são um pouco do que venho desenvolvendo durante a minha carreira,
+Sinta-se à vontade para explorar!
 
 ---
 
@@ -56,26 +56,6 @@ Os códigos que posto aqui são projetos de estudo desenvolvidos durante minha j
 </details>
 
 <details>
- <summary><h3>🆚 Análise comparativa entre classificadores </h3></summary>
-   Este foi meu primeiro projeto em Ciência de Dados, no qual promovi uma comparação de acurácia entre dois classificadores clássicos, KNearestNeighbor e RandomForestClassifier, aplicados em cinco conjuntos de dados distintos.
-Os dados utilizados foram coletados do Kaggle, abrangendo temáticas diversas, desde informações sobre saúde pública até dados relacionados a aplicativos de Android. Após a obtenção desses conjuntos de dados, procedi com sua análise e preparação para a fase de treinamento e teste dos classificadores.
-Posteriormente, conduzi uma análise estatística minuciosa sobre a acurácia alcançada pelos classificadores. Vale destacar que um deles obteve um desempenho significativamente superior. Alguma aposta sobre qual foi? 👀
-
-   #
-   
-  **Competências aplicadas nesse projeto:**
-  * Busca por dados na plataforma Kaggle
-  * Carregamento de Dados no Google Colab
-  * Análise Exploratória de Dados
-  * Construção de Modelos de Classificação
-  * Validação cruzada de Classificadores
-  * Análise estatística de resultados
-
-🔗 [Link para o repositório](https://github.com/prestesvinicius/classifier-comparison/)
-</details>
-
-
-<details>
  <summary><h3>⏰ Detecção de falhas em sinais temporais </h3></summary>
 Este projeto envolveu a classificação de sinais que indicam o funcionamento normal e a presença de falhas de desbalanceamento de 6g em máquinas rotativas. Utilizei os dados provenientes da base de dados Machinery Fault Database (MAFAULDA). A análise e preparação desses dados, formatados como séries temporais, representaram um desafio significativo, incluindo a transformação dos dados para o domínio da frequência.
 Iniciando com a definição de uma linha de referência inicial, prossegui com a extração de características para aprimorar o desempenho do classificador. Em seguida, reduzi a dimensionalidade dos dados por meio do método PCA e otimizei os classificadores testados utilizando a função GridSearch.
@@ -98,4 +78,10 @@ Os resultados obtidos foram promissores, alcançando uma acurácia máxima de 96
 🔗 [Link para o repositório](https://github.com/prestesvinicius/machine-failure-detection)
 </details>
 
+## Contato
 
+<div>
+
+<a href = "mailto:prestesyfy@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/prestesvinicius/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
